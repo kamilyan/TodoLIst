@@ -36,6 +36,7 @@ label {
   text-align: center;
 }
 input {
+  outline: none;
   width: 100%;
   padding: 10px;
   font-size: 16px;
@@ -45,6 +46,7 @@ input {
 
 .addBtn {
   cursor: pointer;
+  outline: none;
   background-color: rgb(0, 246, 103);
   color: white;
   display: block;
